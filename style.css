@@ -1855,7 +1855,7 @@ body {
     display: inline-flex;
     align-items: center;
     gap: 0.75rem;
-    background: var(--white);
+    background: var(--blue-soft);
     color: var(--blue-medium);
     padding: 1rem 2.5rem;
     border: 2px solid var(--gray-medium);
